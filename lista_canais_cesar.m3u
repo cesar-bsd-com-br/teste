@@ -1,46 +1,4 @@
 #EXTM3U
-#EXTINF:-1,ESPN UHD
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21315
-#EXTINF:-1,ESPN2 HD²
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/214
-#EXTINF:-1,ESPN3 UHD
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21235
-#EXTINF:-1,ESPN4 UHD
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21318
-#EXTINF:-1,ESPN Extra UHD
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21236
-#EXTINF:-1,SporTV UHD
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21275
-#EXTINF:-1,SporTV 2 UHD
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21273
-#EXTINF:-1,SporTV 3 UHD
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21274
-#EXTINF:-1,A&E UHD
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21292
-#EXTINF:-1,Animal Planet UHD
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/22305
-#EXTINF:-1,Arte 1 UHD
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21222
-#EXTINF:-1,AXN UHD
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21223
-#EXTINF:-1,Band News UHD
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21224
-#EXTINF:-1,Band Sports UHD
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21225
-#EXTINF:-1,BIS UHD
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21226
-#EXTINF:-1,CANAL DO VOLEI 01
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18289
-#EXTINF:-1,CANAL DO VOLEI 02
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18288
-#EXTINF:-1,CANAL DO VOLEI 03
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18287
-#EXTINF:-1,Canal Sony UHD
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21229
-#EXTINF:-1,Cartoon Network UHD
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21230
-#EXTINF:-1,Cinemax UHD
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21231
 #EXTINF:-1,Combate UHD
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21232
 #EXTINF:-1,Comedy Central UHD
