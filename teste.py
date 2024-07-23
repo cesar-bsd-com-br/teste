@@ -132,7 +132,7 @@ graf3 = px.pie(
   values = 'titulo_valor'
 )
 col1.plotly_chart(graf1, use_container_width = True)
-tab1, tab2 = col2.tabs(['GrÃ¡fico por UF', 'GrÃ¡fico por pessoa'])
+tab1, tab2 = col2.tabs(['Gráfico por UF', 'Gráfico por pessoa'])
 with tab1:
   st.plotly_chart(graf2, use_container_width = True)
 with tab2:
